@@ -1,10 +1,10 @@
 # Arrythmia_Detection_DL.ipnyb
-  Trained on MIT BIH Arrythmia Database
-  Network architecture: CNN BiLSTM
+  - Trained on MIT BIH Arrythmia Database
+  - Network architecture: CNN BiLSTM
 
 # Arrythmia_Detection_ML.ipynb
-  Trained on Arrythmia Database from UCL Machine Learning Repository
-  Network architecture: MLP
+  - Trained on Arrythmia Database from UCL Machine Learning Repository
+  - Network architecture: MLP
 
 ## Setup (for both)
 1. Clone the repo
